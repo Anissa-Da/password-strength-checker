@@ -60,7 +60,3 @@ Strength     : Very strong password
 * Python 3
 * getpass
 * string
-
-## Author
-
-Anissa HADJOU
